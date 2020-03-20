@@ -1,6 +1,5 @@
 # WebWk5-2
 HW for Web Programming   
-
 realize HERSHEY'S website  
 
 顯示比例100%
